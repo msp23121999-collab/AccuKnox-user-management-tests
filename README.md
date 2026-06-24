@@ -317,8 +317,20 @@ The manual test cases are available in two formats:
 
 | Format | Location |
 |---|---|
-| **Excel** | `test-cases/User_Management_Test_Cases.xlsx` |
-| **Markdown** | `test-cases/manual-test-cases.md` |
+| **Excel (for submission)** | [`User_Management_Test_Cases.xlsx`](test-cases/User_Management_Test_Cases.xlsx) |
+| **Markdown (for quick view)** | [`manual-test-cases.md`](test-cases/manual-test-cases.md) |
+
+### 📥 Download the Excel Test Case Document
+
+👉 **[Click here to download User_Management_Test_Cases.xlsx](test-cases/User_Management_Test_Cases.xlsx)**
+
+The Excel workbook has **3 sheets**:
+
+| Sheet | What's Inside |
+|---|---|
+| **Sheet 1 — Test Cases** | All 10 test cases with columns: Test ID, Test Scenario, Pre-conditions, Test Steps, Test Data, Expected Result, Actual Result, Status, Priority. Color-coded Pass/Fail and Priority. |
+| **Sheet 2 — Bugs & Issues** | 2 bugs found during testing with description, severity, and resolution. |
+| **Sheet 3 — Summary** | Test execution summary — 10/10 passed, 100% pass rate, tools used, browser, run time. |
 
 ### 10 Test Cases Summary:
 
