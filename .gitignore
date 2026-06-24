@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+
+# Logs (keep folder via README, ignore generated log files)
+logs/*.log
+
+# Reports (keep folder via README, ignore generated report files)
+reports/*.html
+reports/*.json
+
+# Node (if any)
+node_modules/
+package-lock.json
+
+# Screenshots (keep folder via README, ignore captured images)
+screenshots/*.png
+
+# MS Excel temporary files
+~$*.xlsx
+
