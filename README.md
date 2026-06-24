@@ -246,24 +246,24 @@ The tests automatically save screenshots at every key step.
 
 After running the tests, check the `screenshots/` folder:
 
-| Screenshot File | What It Shows |
-|---|---|
-| `00_login_page.png` | The OrangeHRM login page |
-| `01_login_success_dashboard.png` | Dashboard after successful login |
-| `02_admin_module_loaded.png` | Admin > User Management page |
-| `03_add_user_form_empty.png` | The empty Add User form |
-| `04_add_user_form_filled.png` | Add User form with all fields filled |
-| `05_add_user_success_toast.png` | Green success toast after adding user |
-| `06_search_user_results.png` | Search results showing the new user |
-| `07_edit_user_form_opened.png` | Edit User form opened |
-| `08_edit_user_form_filled.png` | Edit form with changed values |
-| `09_edit_user_success_toast.png` | Success toast after editing |
-| `10_validate_updated_user_details.png` | Updated details confirmed in the table |
-| `11_before_delete_user.png` | User in table, ready to be deleted |
-| `12_delete_user_success_toast.png` | Success toast after deletion |
-| `13_user_deleted_no_records_found.png` | "No Records Found" — user fully deleted |
-| `ps2_01_system_health_monitor.png` | System health script output |
-| `ps2_02_app_health_checker.png` | App health checker output |
+| Screenshot File | Preview | What It Shows |
+|---|---|---|
+| `00_login_page.png` | <img src="screenshots/00_login_page.png" width="200"> | The OrangeHRM login page |
+| `01_login_success_dashboard.png` | <img src="screenshots/01_login_success_dashboard.png" width="200"> | Dashboard after successful login |
+| `02_admin_module_loaded.png` | <img src="screenshots/02_admin_module_loaded.png" width="200"> | Admin > User Management page |
+| `03_add_user_form_empty.png` | <img src="screenshots/03_add_user_form_empty.png" width="200"> | The empty Add User form |
+| `04_add_user_form_filled.png` | <img src="screenshots/04_add_user_form_filled.png" width="200"> | Add User form with all fields filled |
+| `05_add_user_success_toast.png` | <img src="screenshots/05_add_user_success_toast.png" width="200"> | Green success toast after adding user |
+| `06_search_user_results.png` | <img src="screenshots/06_search_user_results.png" width="200"> | Search results showing the new user |
+| `07_edit_user_form_opened.png` | <img src="screenshots/07_edit_user_form_opened.png" width="200"> | Edit User form opened |
+| `08_edit_user_form_filled.png` | <img src="screenshots/08_edit_user_form_filled.png" width="200"> | Edit form with changed values |
+| `09_edit_user_success_toast.png` | <img src="screenshots/09_edit_user_success_toast.png" width="200"> | Success toast after editing |
+| `10_validate_updated_user_details.png` | <img src="screenshots/10_validate_updated_user_details.png" width="200"> | Updated details confirmed in the table |
+| `11_before_delete_user.png` | <img src="screenshots/11_before_delete_user.png" width="200"> | User in table, ready to be deleted |
+| `12_delete_user_success_toast.png` | <img src="screenshots/12_delete_user_success_toast.png" width="200"> | Success toast after deletion |
+| `13_user_deleted_no_records_found.png` | <img src="screenshots/13_user_deleted_no_records_found.png" width="200"> | "No Records Found" — user fully deleted |
+| `ps2_01_system_health_monitor.png` | <img src="screenshots/ps2_01_system_health_monitor.png" width="200"> | System health script output |
+| `ps2_02_app_health_checker.png` | <img src="screenshots/ps2_02_app_health_checker.png" width="200"> | App health checker output |
 
 ---
 
