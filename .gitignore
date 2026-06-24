@@ -45,8 +45,7 @@ reports/*.json
 node_modules/
 package-lock.json
 
-# Screenshots (keep folder via README, ignore captured images)
-screenshots/*.png
+# Screenshots — tracked for README evidence
 
 # MS Excel temporary files
 ~$*.xlsx
